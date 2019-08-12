@@ -1,2 +1,2 @@
 # Perceptron
-Клас пертцептрон, для бінарної класифікації лінійно роздільних об'єктів
+class perceptron for binary classification linear discrete objects
